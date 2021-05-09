@@ -18,7 +18,7 @@ My Links: https://redl.ink/HadiAzarnasab
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
 <a href="https://github.com/Hadi7546">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=dark" /></a>
 <a href="https://github.com/Hadi7546">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi7546&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi7546&theme=dark" />
 </a>
