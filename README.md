@@ -1,5 +1,5 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm<a href="https://redl.ink/HadiAzarnasab"> Hadi Azarnasab </a>
-![age](https://img.shields.io/badge/A-13-blue)
+![age](https://img.shields.io/badge/Age-13-blue)
 ![focus](https://img.shields.io/badge/focus-flutter-brightgreen)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 <img align="center" alt="wallpaper" src="https://github.com/Hadi7546/Hadi7546/blob/main/images/goflutter.png"/>
