@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm<a href="https://redl.ink/HadiAzarnasab"> Hadi Azarnasab </a>
 Hi, I'm [Hadi Azarnasab](https://redl.ink/HadiAzarnasab), I'm Student and 13 Years old.<br></br>
 ![age](https://img.shields.io/badge/Age-13-blue)
-![focus](https://img.shields.io/badge/focus-flutter-brightgreen)
+![focus](https://img.shields.io/badge/focus-Flutter-brightgreen&logo=flutter)
 ![living](https://img.shields.io/badge/living-iran-3c9)
 <img align="center" alt="wallpaper" src="https://github.com/Hadi7546/Hadi7546/blob/main/images/goflutter.png"/>
 
@@ -18,7 +18,7 @@ My Links: https://redl.ink/HadiAzarnasab
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=vsc&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-GoLang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 
