@@ -3,7 +3,7 @@ Hi, I'm [Hadi Azarnasab](https://redl.ink/HadiAzarnasab), I'm Student and 13 Yea
 ![age](https://img.shields.io/badge/Age-13-blue)
 ![focus](https://img.shields.io/badge/focus-Flutter-brightgreen&logo=flutter)
 ![living](https://img.shields.io/badge/living-iran-3c9)
-<img align="center" alt="wallpaper" src="https://github.com/Hadi7546/Hadi7546/blob/main/images/goflutter.png"/>
+<img align="center" alt="wallpaper" width=250px height=300px src="https://github.com/Hadi7546/Hadi7546/blob/main/images/goflutter.png"/>
 
 
 
