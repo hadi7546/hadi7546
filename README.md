@@ -14,28 +14,19 @@
   
 <h4><b><samp>Programming</samp></b></h4>
 
-![Dart](https://img.shields.io/badge/Go-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-ea2d2f?style=flat-square&logo=c-sharp][or=white)
-  
-![Go](https://img.shields.io/badge/Python-ea2d2f?style=flat-square&logo=Python&logoColor=white)
-
-<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white"/>
+![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-ea2d2f?style=flat-square&logo=go&logoColor=white)
+<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
 <h4><b><samp>Tools and Technologies</samp></b></h4>
 
 ![Flutter](https://img.shields.io/badge/Flutter-47c5fb?style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-ffcb2c?style=flat-square&logo=AWS-Amplify&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-ffcb2c?style=flat-square&logo=gRPC&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-443a86?style=flat-square&logo=Heroku&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-62b059?style=flat-square&logo=Node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/Graphql-db33a3?style=flat-square&logo=Graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ba94e?style=flat-square&logo=MongoDB&logoColor=white)
-![Github Actions](https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
 ![Codemagic](https://img.shields.io/badge/CodeMagic-black?style=flat-square&logo=CodeMagic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
-![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=LaTex&logoColor=white)
 
 
 
