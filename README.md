@@ -36,7 +36,6 @@
   
 ![Windows](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
-##
   
   
 ##
