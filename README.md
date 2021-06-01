@@ -2,6 +2,7 @@
 <p align="center"><h1 align="center"><samp> I am <a href="https://redl.ink/HadiAzarnasab">Hadi Azarnasab </a> </samp></h1></p>
 <p align="center"><h4 align="center"><samp> A Junior Flutter and Amateur GO Developer, A UI/UX Designer & A 13 Years Old Student</samp></h4></p>
 <br>
+
 <div>
   
   
@@ -27,9 +28,44 @@
 ![Codemagic](https://img.shields.io/badge/CodeMagic-black?style=flat-square&logo=CodeMagic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
 
 
+##
 
+<h4><b><samp>📊 Weekly development breakdown</samp></b></h4>
+
+<!--START_SECTION:waka-->
+ 
+<!--END_SECTION:waka-->
+
+##
+
+
+<details>
+  <summary><b><samp>📈 My GitHub Stats</samp></b></summary>
+<br>
+<a href="https://github.com/Hadi7546">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadi7546&theme=nord" />
+</a>
+<br>
+  
+<a href="https://github.com/Hadi7546">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
+<a href="https://github.com/Hadi7546">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadi7546&theme=nord" />
+</a>
+
+</details>
+
+  <h4><b><samp>Connect with me:</samp></b></h4>
+
+[![Contact](https://img.shields.io/badge/hazard7546@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:hazard7546@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Hadi_Azarnasab-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hadiazarnasab/) 
+[![Codepen](https://img.shields.io/badge/Hadi_Azarnasab-1e1f26?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/Hadi7546)
+[![Stack Overflow](https://img.shields.io/badge/Hadi_Azarnasab-393939?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15070335/hadi-azarnasab)
+[![Dev](https://img.shields.io/badge/@Hadi7546-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/Hadi7546)
+[![Discord](https://img.shields.io/badge/@HadiAzarnasab-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/831983661413826570)
 
 
 <!-- 
