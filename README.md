@@ -58,7 +58,13 @@
 
 </details>
 
-  <h4><b><samp>Connect with me:</samp></b></h4>
+<h4><b><samp>✔Information</samp></b></h4>
+  
+![](https://img.shields.io/badge/Age-14-blue?style=flat-square)
+![](https://img.shields.io/badge/Living-Bushehr,%20Iran-blue?style=flat-square)
+[![](https://img.shields.io/badge/Links-click%20on%20this%20badge-FF0E3A?style=flat-square)](https://redl.ink/HadiAzarnasab)
+  
+ <h4><b><samp>Connect with me:</samp></b></h4>
 
 [![Contact](https://img.shields.io/badge/hazard7546@gmail.com-0075c8?style=flat-square&logo=gmail&logoColor=white)](mailto:hazard7546@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Hadi_Azarnasab-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hadiazarnasab/) 
