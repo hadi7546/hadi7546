@@ -28,9 +28,17 @@
 ![Codemagic](https://img.shields.io/badge/CodeMagic-black?style=flat-square&logo=CodeMagic&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-square&logo=Markdown&logoColor=white)
+
+
+##
+  
+<h4><b><samp>Operating System</samp></b></h4>
+  
 ![Windows](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
-
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
+##
+  
+  
 ##
 
 <h4><b><samp>📊 Weekly development breakdown</samp></b></h4>
