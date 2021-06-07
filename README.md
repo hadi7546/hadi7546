@@ -7,11 +7,11 @@
   
   
 - 🔭 <samp>I’m currently working on Freelancer
-- 😄 <samp>I’m the creator of [#PersianFlutter Community(Discord Server)](https://discord.gg/fUjxQFr7).
+- 😄 <samp>I’m the creator of [#PersianFlutter Community(Discord Server)](https://discord.link/PersianFlutter).
 - 💬 <samp>Ask me about Flutter.
 - 🥇 <samp>Open Source Contributor.
 - 😄 <samp>Pronouns: He/His.
-</div>
+</div> 
   
 <h4><b><samp>Programming</samp></b></h4>
 
