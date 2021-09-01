@@ -34,7 +34,7 @@
   
 <h4><b><samp>Operating System</samp></b></h4>
   
-![Windows](https://img.shields.io/badge/Windows-informational?style=flat-square&logo=windows&logoColor=white&color=2bbc8a)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&color=2bbc8a)
   
   
