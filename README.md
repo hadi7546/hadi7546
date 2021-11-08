@@ -80,6 +80,8 @@
 [![Dev](https://img.shields.io/badge/@Hadi7546-black?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/Hadi7546)
 [![Discord](https://img.shields.io/badge/@HadiAzarnasab-black?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/831983661413826570)
 
+## Donate 
+<a href="https://coffeebede.ir/buycoffee/hadi7546"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 <!-- 
 ![age](https://img.shields.io/badge/Age-13-blue)
