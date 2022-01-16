@@ -10,7 +10,6 @@
 - 😄 <samp>I’m the creator of [#PersianFlutter Community(Discord Server)](https://discord.link/PersianFlutter).
 - 💬 <samp>Ask me about Flutter.
 - 🥇 <samp>Open Source Contributor.
-- 😄 <samp>Pronouns: He/His.
 </div> 
   
 <h4><b><samp>Programming</samp></b></h4>
