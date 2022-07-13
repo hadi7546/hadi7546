@@ -1,5 +1,5 @@
 <p align="center"><h1 align="center"><samp> I'm <a href="https://Hadi7546.ir">Hadi Azarnasab </a> </samp></h1></p>
-<p align="center"><h4 align="center"><samp> A 14 YO Student Flutter and GO Developer</samp></h4></p>
+<p align="center"><h3 align="center"><samp> A 14 YO Student | Flutter and GO Developer</samp></h3></p>
 <br>
 
 <div>
