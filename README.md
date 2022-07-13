@@ -28,15 +28,6 @@
 </p>
 
 ##
-
-### Github Stats
- <p align="center">
-  <a href="https://github.com/Hadi7546">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
-</p>
-
-##
-
 ### Connect with me
 <p align="center">
   <a href="https://discord.com/users/910211623589912657">
@@ -45,4 +36,12 @@
   <a href="https://linkedin.com/in/hadi7546">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
+</p>
+  
+##
+
+### Stats
+ <p align="center">
+  <a href="https://github.com/Hadi7546">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hadi7546&show_icons=true&count_private=true&include_all_commits=true&theme=nord" /></a>
 </p>
