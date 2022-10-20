@@ -1,5 +1,5 @@
 <p align="center"><h1 align="center"><samp> I'm <a href="https://Hadi7546.ir">Hadi Azarnasab </a> </samp></h1></p>
-<p align="center"><h3 align="center"><samp> A 14 YO Student | Flutter and GO Developer</samp></h3></p>
+<p align="center"><h3 align="center"><samp> A 15 YO Student | Flutter and GO Developer</samp></h3></p>
 <br>
 
 <div>
@@ -13,14 +13,14 @@
 ##
   
 ### Programming Languges
-  <a href="https://hadi7546.ir">
+  <a href="https://hadi7546.me">
     <img src="https://skillicons.dev/icons?i=dart,go&theme=dark" />
   </a>
 
 ##
 
 ### Tools and Technologies
-  <a href="https://hadi7546.ir">
+  <a href="https://hadi7546.me">
     <img src="https://skillicons.dev/icons?i=flutter,vscode,figma,git,github,firebase,appwrite,heroku,bash,linux&theme=dark" />
   </a>
 
