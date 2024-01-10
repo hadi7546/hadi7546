@@ -1,10 +1,10 @@
 <p align="center"><h1 align="center"><samp> I'm <a href="https://Hadi7546.ir">Hadi Azarnasab </a> </samp></h1></p>
-<p align="center"><h3 align="center"><samp> A 15 YO Student | Flutter and GO Developer</samp></h3></p>
+<p align="center"><h3 align="center"><samp> A 16 YO Student | Flutter and GO Developer</samp></h3></p>
 <br>
 
 <div>
   
-- 🔭 <samp>I’m currently focus on Flutter & GO.
+- 🔭 <samp>I’m currently focus on Computer Olympiad, Competitive Programming and CPP.
 - 😄 <samp>I’m Staff at [#PersianFlutter Community](https://PersianFlutter.com).
 - 💬 <samp>Ask me about Flutter.
 - 🥇 <samp>Becoming a Open Source Contributor.
@@ -14,7 +14,7 @@
   
 ### Programming Languges
   <a href="https://hadi7546.me">
-    <img src="https://skillicons.dev/icons?i=dart,go&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,go,cpp&theme=dark" />
   </a>
 
 ##
