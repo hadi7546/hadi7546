@@ -14,7 +14,7 @@
   
 ### Programming Languges
   <a href="https://hadi7546.me">
-    <img src="https://skillicons.dev/icons?i=dart,go,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,cpp&theme=dark" />
   </a>
 
 ##
